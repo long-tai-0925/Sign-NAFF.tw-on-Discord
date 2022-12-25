@@ -8,7 +8,7 @@ pip install keyboard
 pip install webbrowser
 ```
 接下來你需要下載這個檔案
-[點我下載](https://github.com/Coca-Sprite/-NAFF.tw-/blob/main/main.py)
+[點我下載](https://github.com/Coca-Sprite/Sign-NAFF.tw-on-Discord/blob/main/main.py)
 
 
 專門氣死康哥哥 然後現在NAFF.tw的Discord在這裡
