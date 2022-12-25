@@ -17,4 +17,5 @@ pip install webbrowser
 NAFF商店現在每日登入賺一塊
 [點我開啟](https://nafstore.net/)
 
-(自動簽到系統開原中)
+NAFStore自動簽到開源完畢
+[點我開啟](https://github.com/Coca-Sprite/Sign-NAFF.tw-on-NAFF.tw/)
