@@ -3,9 +3,10 @@
 那我們開始吧
 
 首先你需要install一些東西
-
+```
 pip install keyboard
 pip install webbrowser
+```
 接下來你需要下載這個檔案
 |
 \\/
