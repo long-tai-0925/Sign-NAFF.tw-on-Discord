@@ -8,7 +8,7 @@ pip install keyboard
 pip install webbrowser
 ```
 接下來你需要下載這個檔案
-|
 
+|
 \\/
 點我下載
