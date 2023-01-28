@@ -16,8 +16,8 @@ pip install keyboard
 專門氣死康哥哥 然後現在NAFF.tw的Discord在這裡
 [點我開啟](https://discord.gg/naff)
 
-NAFF商店現在每日登入賺一塊
-[點我開啟](https://nafstore.net/)
+~~NAFF商店現在每日登入賺一塊~~
+~~[點我開啟](https://nafstore.net/) ~~已經無法在網站上簽到
 
-NAFStore自動簽到開源完畢
-[點我開啟](https://github.com/Coca-Sprite/Sign-NAFF.tw-on-NAFF.tw/)
+~~NAFStore自動簽到開源完畢~~
+~~[點我開啟](https://github.com/Coca-Sprite/Sign-NAFF.tw-on-NAFF.tw/)~~
