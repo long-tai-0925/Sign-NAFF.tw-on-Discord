@@ -1,4 +1,4 @@
-最近Not A Free.host改名為NAFF.tw 還把簽到系統家回來了
+最近Not A Free.host改名為NAFF.tw 還把簽到系統加回來了
 所以我開發了一個自動簽到的東西
 那我們開始吧
 
